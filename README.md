@@ -1,4 +1,4 @@
-![logo](https://github.com/sachinkumar202/sachinkumar202/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/sachinkumar202/sachinkumar202/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
